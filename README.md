@@ -29,7 +29,7 @@ Amazon Lex provides powerful tools for natural language understanding, making it
 Feel free to check out my other projects or connect with me on **[LinkedIn](https://www.linkedin.com/in/james-phillips-028141308/)** and **[GitHub](https://github.com/Jphilp4)**.
 
 ### Documentation
-For a detailed walkthrough, check out my process documentation here: [legendary-aws-chatbot-development.pdf] [https://github.com/user-attachments/files/17622725/legendary-aws-ai-lex1.pdf]
+For a detailed walkthrough, check out my process documentation here: [https://github.com/user-attachments/files/17622725/legendary-aws-ai-lex1.pdf]
 
 
 ---
